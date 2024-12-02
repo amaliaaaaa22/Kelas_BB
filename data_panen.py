@@ -42,7 +42,9 @@ data_panen = {
     }
 }
 
+print(50*"=")
 print("Data Hasil Panen Maudy Amalia :\n")
+print(50*"=")
 for lokasi, data in data_panen.items():
     print(f"Lokasi : {data['nama_lokasi']}")
     print("Hasil Panen :")
