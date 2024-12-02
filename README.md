@@ -1,4 +1,5 @@
-# Ini adalah perubahan di branch master
+# Ini adalah perubahan gabungan dari branch master dan baru
+
 # 🌟 Proyek Panen KelasBB 🌾
 
 > **"Di mana Python bertemu ladang, dan commit berbuah panen melimpah!"** 🚜✨
