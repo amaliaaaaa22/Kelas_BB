@@ -1,3 +1,4 @@
+print (50*"=")
 print ("Maudy Amalia")
 print ("NRP : 152023143")
 print ("Informatika ITENAS")
